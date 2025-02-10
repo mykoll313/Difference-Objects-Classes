@@ -1,5 +1,4 @@
 # Difference-Objects-Classes
-# Difference-Objects-Classes
 
 A class is like a blueprint or template for creating objects. It defines the characteristics (also called attributes or properties) and behaviors (also known as methods or actions) that the objects will have.
 
