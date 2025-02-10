@@ -16,9 +16,14 @@ In Java, if Car is the class, then a Tesla Model 3 or a Ford Mustang would be ob
 Key Conceptual Differences
 
 What it is	 ------- Class ------- A blueprint or template	 ------- Object -------                         A real-world instance of the class
+
 Exists in memory? ------- Class ------- 	        No, it's just a definition	------- Object -------                    Yes, it occupies memory when created
+
 Can store data?	 ------- Class -------  No, it only defines structure------- Object -------	                Yes, objects hold actual values
+
 Can perform actions? ------- Class -------  No, it only describes behavior	------- Object -------                Yes, methods can be executed on objects
+
 Example ------- Class ------- Car (describes attributes like brand, color, and speed) ------- Object -------        A Tesla Model 3 or a Ford Mustang (specific real-world examples)
+
                                  	
 
