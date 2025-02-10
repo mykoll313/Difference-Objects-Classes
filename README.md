@@ -13,12 +13,12 @@ Continuing with the house analogy, if a class is the blueprint, then an object i
 
 In Java, if Car is the class, then a Tesla Model 3 or a Ford Mustang would be objects of that class, each with its own brand, color, and speed values.
 
-🎯 Key Conceptual Differences
-Feature	                    Class 🏗	                                    Object 🚗
-What it is	                A blueprint or template	                        A real-world instance of the class
-Exists in memory?	        No, it's just a definition	                    Yes, it occupies memory when created
-Can store data?	            No, it only defines structure	                Yes, objects hold actual values
-Can perform actions?	    No, it only describes behavior	                Yes, methods can be executed on objects
-Example	                    Car (describes attributes like brand,           A Tesla Model 3 or a Ford Mustang (specific real-world examples)
-                                 color, and speed)	
+Key Conceptual Differences
+
+What it is	 ------- Class ------- A blueprint or template	 ------- Object -------                         A real-world instance of the class
+Exists in memory? ------- Class ------- 	        No, it's just a definition	------- Object -------                    Yes, it occupies memory when created
+Can store data?	 ------- Class -------  No, it only defines structure------- Object -------	                Yes, objects hold actual values
+Can perform actions? ------- Class -------  No, it only describes behavior	------- Object -------                Yes, methods can be executed on objects
+Example ------- Class ------- Car (describes attributes like brand, color, and speed) ------- Object -------        A Tesla Model 3 or a Ford Mustang (specific real-world examples)
+                                 	
 
